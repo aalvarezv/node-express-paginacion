@@ -1,4 +1,4 @@
-Proyecto creado con Node
+## Proyecto de Paginación de datos creado con Node + Express
 
 Ejcutar con el comando:
 
@@ -10,5 +10,5 @@ Ejcutar con el comando:
 
 ### `http://localhost:3000/users?page=1&limit=5`
 
-**Integra Middleware para paginar resultados de una consulta**
+**Integra Middleware encargado de paginar resultados de una consulta a documento users de bd mongo**
 
